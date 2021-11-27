@@ -27,3 +27,11 @@ Acesse no navegar a url
 http://localhost:3333
 ```
 Deverá aparecer a mensagem **Hello World!**
+
+# Próximos Passos
+
+[Instalando Eslint e Prettier](https://github.com/lucaslimas/helpers2/blob/main/pages/eslint_prettier.md)
+
+# Acesse a página de ajuda
+
+[Helpers2](https://github.com/lucaslimas/helpers2)
