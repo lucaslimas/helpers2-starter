@@ -18,7 +18,7 @@ Execute o projeto
 ```
 yarn dev
 ```
-No console irá aparecer a console:
+No console irá aparecer a seguinte frase:
 ```
 server is running...
 ```
